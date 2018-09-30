@@ -14,7 +14,9 @@ do
                     \"email\":\"${email}\",
                     \"TRAVIS_TAG\":\"${TRAVIS_TAG}\",
                     \"event_url\":\"${event_url}\",
-                    \"TRAVIS_SCRIPT\":\"${TRAVIS_SCRIPT}\"
+                    \"TRAVIS_SCRIPT\":\"${TRAVIS_SCRIPT}\",
+                    \"C_UNAME\":\"reck\",
+                    \"C_HNAME\":\"mel\"
                 }
             }
     }}"
